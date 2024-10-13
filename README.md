@@ -3,7 +3,7 @@ Group Members:
 - Nima Behboudi
 - Kyle Luchsinger
 - Bilal Othman
-- XXXX
+- Fredy Balibuno
 - XXXX
 
 ------------------ Project Information ------------------
